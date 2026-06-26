@@ -1,0 +1,5 @@
+Metric,Value,Better when
+MAE,7.4764,↓ lower
+RMSE,9.4883,↓ lower
+MAPE (%),3.6772,↓ lower
+Directional Accuracy (%),49.21,↑ higher
